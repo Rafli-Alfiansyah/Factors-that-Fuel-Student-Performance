@@ -1,5 +1,7 @@
 # Analysis of Student Exam Performance
 
+![Exam_sheet](https://github.com/user-attachments/assets/0f04f3a9-6267-48a1-b54c-dbdcaeb56a71)
+
 ## An Investigation into Factors Influencing Student Success
 
 In today's competitive educational environment, understanding the factors that influence student success is crucial. This project analyzes a dataset containing details about various aspects of student life, such as hours studied, sleep patterns, and attendance, to uncover what truly impacts exam performance.
