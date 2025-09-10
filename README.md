@@ -55,3 +55,7 @@ The results for the top-ranked students show a wide variation in study habits an
 ### Conclusion
 
 This analysis reveals clear patterns between student habits and academic outcomes. The most straightforward conclusion is that **more hours spent studying generally leads to higher exam scores**. Furthermore, even students who participate in extracurricular activities benefit from dedicating more time to their studies. While factors like attendance, sleep, and tutoring also play a role, the amount of time invested in studying appears to be a primary driver of success in this dataset.
+
+### Tools
+
+- **SQL**
